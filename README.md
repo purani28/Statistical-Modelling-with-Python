@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to build a regression model to understand the relationship between bike availability and local points of interest (POIs), and store the data in an SQLite database for further exploration.
 
 ## Process
 ### (your step 1)
