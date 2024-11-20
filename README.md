@@ -12,7 +12,7 @@ Step 5. Interpreting Results: Finally, I analyzed the results to draw conclusion
 
 ## Results
 1. API Comparison: The quality of the data from Yelp and Foursquare varied depending on the city. Yelp had better information on user ratings, which helped create a richer dataset to understand customer preferences comapred to Foursqaure
-2. Findings: From the scatterplot, I saw a negative correlation between the number of free bikes at a station and the number of nearby restaurants. This suggests that areas with more dining and entertainment options tend to have fewer bikes available, likely because these areas have higher foot traffic and more demand for bikes.
+2. EDA Observations: From the scatterplot, I saw a negative correlation between the number of free bikes at a station and the number of nearby restaurants. This suggests that areas with more dining and entertainment options tend to have fewer bikes available, likely because these areas have higher foot traffic and more demand for bikes. The restaurant with the highest rating is FLESH with a rating of 4.6 and the restaurant with the lowest rating is Bizz' Art with a rating of 3.3. The average number of free bikes available across Paris is 3.46.
 3. Regression Model: The regression model didn’t explain much of the variation in bike availability, more data is needed to improve the model and make it more accurate.
 
 ## Challenges 
